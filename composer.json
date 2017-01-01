@@ -1,0 +1,13 @@
+{
+    "name": "pidennis/pi-site-config",
+    "description": "WordPress MU Plugin to configure plugins and redirects with a file based configuration.",
+    "type": "devaloka-muplugin",
+    "license": "proprietary",
+    "extra": {
+        "installer-loader": "pi-site-config.php"
+    },
+    "require": {
+        "php": ">=7.0",
+        "devaloka/mu-plugin-installer": "~0.2.0"
+    }
+}
